@@ -569,6 +569,7 @@ body {
   display: inline-flex;
   flex-direction: column;
   justify-content: start;
+  margin-left: 70px;
 }
 
 .h3footer {
